@@ -10,7 +10,8 @@ Description: nbscar allows interfacing with the TN NBS system from R.
     It uses the webdriver package to programmatically operate the NBS UI.
 License: MIT + file LICENSE
 Suggests: 
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    covr
 Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true

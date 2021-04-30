@@ -4,6 +4,8 @@
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/nbscar)](https://CRAN.R-project.org/package=nbscar)
+[![Codecov test coverage](https://codecov.io/gh/jesse-smith/nbscar/branch/master/graph/badge.svg)](https://codecov.io/gh/jesse-smith/nbscar?branch=master)
+[![R-CMD-check](https://github.com/jesse-smith/nbscar/workflows/R-CMD-check/badge.svg)](https://github.com/jesse-smith/nbscar/actions)
 <!-- badges: end -->
 
 nbscar is an R package for interfacing with the TN NBS system. It uses the
