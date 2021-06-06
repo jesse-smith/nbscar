@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/jesse-smith/nbscar/workflows/R-CMD-check/badge.svg)](https://github.com/jesse-smith/nbscar/actions)
 <!-- badges: end -->
 
-nbscar is an R package for interfacing with the TN NBS system. It uses the
+WORK IN PROGRESS. nbscar is an R package for interfacing with the TN NBS system. It uses the
 [webdriver](https://github.com/rstudio/webdriver) package to programmatically
 operate the NBS UI. This package is primarily designed for use within the
 Shelby County Health Department, but contributions and modifications for use in
